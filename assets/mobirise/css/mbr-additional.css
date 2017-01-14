@@ -38,6 +38,12 @@
 #header4-w P {
   color: #3d8eb9;
 }
+#content4-y .mbr-section__col .mbr-header__text {
+  text-align: center;
+}
+#content4-y P {
+  text-align: center;
+}
 
 
 
@@ -146,6 +152,8 @@
 
 
 
+
+
 #menu-4 .mbr-brand__name {
   font-size: 16px;
 }
@@ -175,9 +183,17 @@
   color: #ffffff;
 }
 #msg-box4-s .mbr-article {
-  color: #ffffff;
+  color: #efefef;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box4-s .mbr-article P {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
+}
+#msg-box4-s .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-s .mbr-article H2 {
+  font-size: 12px;
 }
